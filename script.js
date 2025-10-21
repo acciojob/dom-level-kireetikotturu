@@ -1,6 +1,6 @@
 //your JS code here. If required.
 //your JS code here. If required.
-let listElement = document.querySelectorAll("ul li");
+let listElement = document.querySelectorAll("li");
 
 let count = 0
 
